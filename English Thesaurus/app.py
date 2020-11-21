@@ -1,6 +1,6 @@
 import json
 from difflib import get_close_matches
-data = json.load(open("python-projects/Engliish Thesaurus/data.json"))
+data = json.load(open("python-projects/English Thesaurus/data.json"))
 
 def translate(word):
     if word in data:
