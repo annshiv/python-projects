@@ -1,20 +1,5 @@
-'''
-A program that stores this book information
-
-Title, Author
-Year, ISBN
-
-user can: 
-
-View all records
-Search an entry
-Add entry
-Update entry
-Delete
-Close
-'''
-
 from tkinter import *
+import backend
 
 window = Tk()
 
