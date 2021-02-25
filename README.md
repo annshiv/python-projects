@@ -5,6 +5,9 @@ In this Repository, You will get my projects of python.
 
 # Bank Account Manager
 
-    - The goal is to create a class called Account which will be an abstract class for three other classes called Checking Account, Savings Account and Business Account. Then we should manage credits and debits from these accounts through an ATM style program
-    
+    - The goal is to create a class called Account which will be an abstract
+     class for three other classes called Checking Account, Savings Account 
+     and Business Account. Then we should manage credits and debits from these 
+     accounts through an ATM style program
+
 # English Thesaurus
