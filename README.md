@@ -1,5 +1,5 @@
 # python-projects
-In this Repository, You will get my projects of python. 
+In this repository, You will get my projects of python. 
 
 ## What I did
 
