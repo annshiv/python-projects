@@ -23,3 +23,4 @@ In this repository, You will get my projects of python.
     an ATM style program.
 
 ### Whatsapp automation
+    - The goal of this projects to sent multiple messages
